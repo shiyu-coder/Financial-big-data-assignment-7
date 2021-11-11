@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Class-Path: guava-11.0.2.jar hadoop-mapreduce-client-app-2.9.1.jar jet
+ ty-sslengine-6.1.26.jar HikariCP-java7-2.4.12.jar jackson-databind-2.
+ 7.8.jar jettison-1.1.jar jersey-client-1.9.jar commons-collections-3.
+ 2.2.jar hadoop-mapreduce-client-core-2.9.1.jar hadoop-yarn-server-com
+ mon-2.9.1.jar commons-math3-3.1.1.jar jackson-core-asl-1.9.13.jar sta
+ x2-api-3.1.4.jar jets3t-0.9.0.jar jetty-util-6.1.26.jar commons-lang-
+ 2.6.jar hadoop-yarn-api-2.9.1.jar netty-all-4.0.23.Final.jar commons-
+ beanutils-core-1.8.0.jar zookeeper-3.4.6.jar commons-configuration-1.
+ 6.jar commons-io-2.4.jar xercesImpl-2.9.1.jar hadoop-hdfs-client-2.9.
+ 1.jar asm-3.1.jar curator-client-2.7.1.jar commons-net-3.1.jar protob
+ uf-java-2.5.0.jar jsp-api-2.1.jar api-util-1.0.0-M20.jar curator-reci
+ pes-2.7.1.jar geronimo-jcache_1.0_spec-1.0-alpha-1.jar log4j-1.2.17.j
+ ar jersey-json-1.9.jar jersey-server-1.9.jar commons-lang3-3.4.jar ap
+ i-asn1-api-1.0.0-M20.jar hadoop-common-2.9.1.jar hadoop-auth-2.9.1.ja
+ r jaxb-api-2.2.2.jar leveldbjni-all-1.8.jar slf4j-log4j12-1.7.25.jar 
+ commons-logging-1.1.3.jar xmlenc-0.52.jar woodstox-core-5.0.3.jar jax
+ b-impl-2.2.3-1.jar jsr305-3.0.0.jar commons-digester-1.8.jar hadoop-m
+ apreduce-client-common-2.9.1.jar accessors-smart-1.2.jar json-smart-2
+ .3.jar hadoop-hdfs-2.9.1.jar hadoop-mapreduce-client-jobclient-2.9.1.
+ jar junit-4.12.jar paranamer-2.3.jar hadoop-yarn-registry-2.9.1.jar h
+ adoop-yarn-common-2.9.1.jar commons-codec-1.4.jar nimbus-jose-jwt-4.4
+ 1.1.jar servlet-api-2.5.jar commons-compress-1.4.1.jar gson-2.2.4.jar
+  jersey-core-1.9.jar okhttp-2.7.5.jar avro-1.7.7.jar okio-1.6.0.jar h
+ adoop-client-2.9.1.jar ehcache-3.3.1.jar commons-cli-1.2.jar jackson-
+ jaxrs-1.8.3.jar htrace-core4-4.1.0-incubating.jar apacheds-i18n-2.0.0
+ -M15.jar snappy-java-1.0.5.jar hadoop-mapreduce-client-shuffle-2.9.1.
+ jar apacheds-kerberos-codec-2.0.0-M15.jar hadoop-annotations-2.9.1.ja
+ r mssql-jdbc-6.2.1.jre7.jar jackson-core-2.7.8.jar hadoop-yarn-client
+ -2.9.1.jar xml-apis-1.3.04.jar jcip-annotations-1.0-1.jar jackson-map
+ per-asl-1.9.13.jar netty-3.6.2.Final.jar java-xmlbuilder-0.4.jar slf4
+ j-api-1.7.25.jar curator-framework-2.7.1.jar activation-1.1.jar asm-5
+ .0.4.jar commons-beanutils-1.7.0.jar jsch-0.1.54.jar httpclient-4.5.2
+ .jar httpcore-4.4.4.jar jackson-annotations-2.7.0.jar commons-daemon-
+ 1.0.13.jar jetty-6.1.26.jar jackson-xc-1.8.3.jar stax-api-1.0-2.jar h
+ amcrest-core-1.3.jar xz-1.0.jar
+Main-Class: test.IrisClassification
+
